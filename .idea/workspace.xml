@@ -2,7 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="8fe82471-118b-4757-9a98-f44554a935f3" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/src/main/java/WaterBottle.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/WaterBottle.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/Printer.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/Printer.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -38,12 +38,12 @@
     <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="settings.editor.selected.configurable" value="preferences.pluginManager" />
   </component>
-  <component name="RunManager" selected="JUnit.WaterBottleTest.fillsVolume">
-    <configuration name="CalculatorTest.canDivide" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+  <component name="RunManager" selected="JUnit.PrinterTest.hasSheets">
+    <configuration name="PrinterTest.hasSheets" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
       <module name="3classesLab" />
       <option name="PACKAGE_NAME" value="" />
-      <option name="MAIN_CLASS_NAME" value="CalculatorTest" />
-      <option name="METHOD_NAME" value="canDivide" />
+      <option name="MAIN_CLASS_NAME" value="PrinterTest" />
+      <option name="METHOD_NAME" value="hasSheets" />
       <option name="TEST_OBJECT" value="method" />
       <method v="2">
         <option name="Make" enabled="true" />
@@ -91,11 +91,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="JUnit.PrinterTest.hasSheets" />
         <item itemvalue="JUnit.WaterBottleTest.fillsVolume" />
         <item itemvalue="JUnit.WaterBottleTest.emptyVolume" />
         <item itemvalue="JUnit.WaterBottleTest.takesDrink" />
         <item itemvalue="JUnit.WaterBottleTest.hasVolume" />
-        <item itemvalue="JUnit.CalculatorTest.canDivide" />
       </list>
     </recent_temporary>
   </component>
