@@ -38,7 +38,7 @@
     <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="settings.editor.selected.configurable" value="preferences.pluginManager" />
   </component>
-  <component name="RunManager" selected="JUnit.WaterBottleTest.takesDrink">
+  <component name="RunManager" selected="JUnit.WaterBottleTest.emptyVolume">
     <configuration name="CalculatorTest.canDivide" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
       <module name="3classesLab" />
       <option name="PACKAGE_NAME" value="" />
@@ -59,11 +59,11 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="CalculatorTest.canSubtract" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+    <configuration name="WaterBottleTest.emptyVolume" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
       <module name="3classesLab" />
       <option name="PACKAGE_NAME" value="" />
-      <option name="MAIN_CLASS_NAME" value="CalculatorTest" />
-      <option name="METHOD_NAME" value="canSubtract" />
+      <option name="MAIN_CLASS_NAME" value="WaterBottleTest" />
+      <option name="METHOD_NAME" value="emptyVolume" />
       <option name="TEST_OBJECT" value="method" />
       <method v="2">
         <option name="Make" enabled="true" />
@@ -91,11 +91,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="JUnit.WaterBottleTest.emptyVolume" />
         <item itemvalue="JUnit.WaterBottleTest.takesDrink" />
         <item itemvalue="JUnit.WaterBottleTest.hasVolume" />
         <item itemvalue="JUnit.CalculatorTest.canDivide" />
         <item itemvalue="JUnit.CalculatorTest.canMultiply" />
-        <item itemvalue="JUnit.CalculatorTest.canSubtract" />
       </list>
     </recent_temporary>
   </component>
@@ -125,22 +125,22 @@
     <servers />
   </component>
   <component name="WindowStateProjectService">
-    <state width="993" height="256" key="GridCell.Tab.0.bottom" timestamp="1592234171676">
+    <state width="993" height="256" key="GridCell.Tab.0.bottom" timestamp="1592234349996">
       <screen x="0" y="23" width="1920" height="985" />
     </state>
-    <state width="993" height="256" key="GridCell.Tab.0.bottom/1920.303.1280.777/0.23.1920.985@0.23.1920.985" timestamp="1592234171676" />
-    <state width="993" height="256" key="GridCell.Tab.0.center" timestamp="1592234171672">
+    <state width="993" height="256" key="GridCell.Tab.0.bottom/1920.303.1280.777/0.23.1920.985@0.23.1920.985" timestamp="1592234349996" />
+    <state width="993" height="256" key="GridCell.Tab.0.center" timestamp="1592234349993">
       <screen x="0" y="23" width="1920" height="985" />
     </state>
-    <state width="993" height="256" key="GridCell.Tab.0.center/1920.303.1280.777/0.23.1920.985@0.23.1920.985" timestamp="1592234171672" />
-    <state width="993" height="256" key="GridCell.Tab.0.left" timestamp="1592234171671">
+    <state width="993" height="256" key="GridCell.Tab.0.center/1920.303.1280.777/0.23.1920.985@0.23.1920.985" timestamp="1592234349993" />
+    <state width="993" height="256" key="GridCell.Tab.0.left" timestamp="1592234349991">
       <screen x="0" y="23" width="1920" height="985" />
     </state>
-    <state width="993" height="256" key="GridCell.Tab.0.left/1920.303.1280.777/0.23.1920.985@0.23.1920.985" timestamp="1592234171671" />
-    <state width="993" height="256" key="GridCell.Tab.0.right" timestamp="1592234171673">
+    <state width="993" height="256" key="GridCell.Tab.0.left/1920.303.1280.777/0.23.1920.985@0.23.1920.985" timestamp="1592234349991" />
+    <state width="993" height="256" key="GridCell.Tab.0.right" timestamp="1592234349993">
       <screen x="0" y="23" width="1920" height="985" />
     </state>
-    <state width="993" height="256" key="GridCell.Tab.0.right/1920.303.1280.777/0.23.1920.985@0.23.1920.985" timestamp="1592234171673" />
+    <state width="993" height="256" key="GridCell.Tab.0.right/1920.303.1280.777/0.23.1920.985@0.23.1920.985" timestamp="1592234349993" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
