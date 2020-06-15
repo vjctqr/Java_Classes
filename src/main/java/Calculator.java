@@ -12,4 +12,10 @@ public class Calculator {
         return this.number1 + this.number2;
     }
 
+    public int subtract(){
+        return this.number1 - this.number2;
+    }
+
+
+
 }
