@@ -23,7 +23,7 @@ public class CalculatorTest {
     }
 
     @Test
-    public void canMultiply(){
+    .public void canMultiply(){
         assertEquals(100, calculator.multiply());
     }
 
