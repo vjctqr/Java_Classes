@@ -9,4 +9,12 @@ public class Printer {
     public int getSheets(){
         return this.sheets;
     }
+
+    public boolean print(int copies, int pages){
+        if ((this.sheets - (copies * pages)) > 0)
+        return true;
+//        return this.sheets - (copies * pages);
+        else return false;
+    }
+
 }

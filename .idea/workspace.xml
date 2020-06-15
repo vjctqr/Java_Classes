@@ -2,7 +2,11 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="8fe82471-118b-4757-9a98-f44554a935f3" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/main/java/Printer.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/Printer.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/PrinterTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/PrinterTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/Printer.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/Printer.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/test-classes/PrinterTest.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/test-classes/PrinterTest.class" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -38,7 +42,27 @@
     <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="settings.editor.selected.configurable" value="preferences.pluginManager" />
   </component>
-  <component name="RunManager" selected="JUnit.PrinterTest.hasSheets">
+  <component name="RunManager" selected="JUnit.PrinterTest.cantPrintCopies">
+    <configuration name="PrinterTest.canPrintCopies" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="3classesLab" />
+      <option name="PACKAGE_NAME" value="" />
+      <option name="MAIN_CLASS_NAME" value="PrinterTest" />
+      <option name="METHOD_NAME" value="canPrintCopies" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="PrinterTest.cantPrintCopies" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="3classesLab" />
+      <option name="PACKAGE_NAME" value="" />
+      <option name="MAIN_CLASS_NAME" value="PrinterTest" />
+      <option name="METHOD_NAME" value="cantPrintCopies" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <configuration name="PrinterTest.hasSheets" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
       <module name="3classesLab" />
       <option name="PACKAGE_NAME" value="" />
@@ -49,11 +73,11 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="WaterBottleTest.emptyVolume" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+    <configuration name="PrinterTest.printCopies" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
       <module name="3classesLab" />
       <option name="PACKAGE_NAME" value="" />
-      <option name="MAIN_CLASS_NAME" value="WaterBottleTest" />
-      <option name="METHOD_NAME" value="emptyVolume" />
+      <option name="MAIN_CLASS_NAME" value="PrinterTest" />
+      <option name="METHOD_NAME" value="printCopies" />
       <option name="TEST_OBJECT" value="method" />
       <method v="2">
         <option name="Make" enabled="true" />
@@ -69,33 +93,13 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="WaterBottleTest.hasVolume" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
-      <module name="3classesLab" />
-      <option name="PACKAGE_NAME" value="" />
-      <option name="MAIN_CLASS_NAME" value="WaterBottleTest" />
-      <option name="METHOD_NAME" value="hasVolume" />
-      <option name="TEST_OBJECT" value="method" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="WaterBottleTest.takesDrink" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
-      <module name="3classesLab" />
-      <option name="PACKAGE_NAME" value="" />
-      <option name="MAIN_CLASS_NAME" value="WaterBottleTest" />
-      <option name="METHOD_NAME" value="takesDrink" />
-      <option name="TEST_OBJECT" value="method" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="JUnit.PrinterTest.cantPrintCopies" />
+        <item itemvalue="JUnit.PrinterTest.canPrintCopies" />
+        <item itemvalue="JUnit.PrinterTest.printCopies" />
         <item itemvalue="JUnit.PrinterTest.hasSheets" />
         <item itemvalue="JUnit.WaterBottleTest.fillsVolume" />
-        <item itemvalue="JUnit.WaterBottleTest.emptyVolume" />
-        <item itemvalue="JUnit.WaterBottleTest.takesDrink" />
-        <item itemvalue="JUnit.WaterBottleTest.hasVolume" />
       </list>
     </recent_temporary>
   </component>
@@ -125,22 +129,22 @@
     <servers />
   </component>
   <component name="WindowStateProjectService">
-    <state width="993" height="256" key="GridCell.Tab.0.bottom" timestamp="1592234800051">
+    <state width="993" height="256" key="GridCell.Tab.0.bottom" timestamp="1592236367818">
       <screen x="0" y="23" width="1920" height="985" />
     </state>
-    <state width="993" height="256" key="GridCell.Tab.0.bottom/1920.303.1280.777/0.23.1920.985@0.23.1920.985" timestamp="1592234800051" />
-    <state width="993" height="256" key="GridCell.Tab.0.center" timestamp="1592234800048">
+    <state width="993" height="256" key="GridCell.Tab.0.bottom/1920.303.1280.777/0.23.1920.985@0.23.1920.985" timestamp="1592236367818" />
+    <state width="993" height="256" key="GridCell.Tab.0.center" timestamp="1592236367788">
       <screen x="0" y="23" width="1920" height="985" />
     </state>
-    <state width="993" height="256" key="GridCell.Tab.0.center/1920.303.1280.777/0.23.1920.985@0.23.1920.985" timestamp="1592234800048" />
-    <state width="993" height="256" key="GridCell.Tab.0.left" timestamp="1592234800047">
+    <state width="993" height="256" key="GridCell.Tab.0.center/1920.303.1280.777/0.23.1920.985@0.23.1920.985" timestamp="1592236367788" />
+    <state width="993" height="256" key="GridCell.Tab.0.left" timestamp="1592236367779">
       <screen x="0" y="23" width="1920" height="985" />
     </state>
-    <state width="993" height="256" key="GridCell.Tab.0.left/1920.303.1280.777/0.23.1920.985@0.23.1920.985" timestamp="1592234800047" />
-    <state width="993" height="256" key="GridCell.Tab.0.right" timestamp="1592234800049">
+    <state width="993" height="256" key="GridCell.Tab.0.left/1920.303.1280.777/0.23.1920.985@0.23.1920.985" timestamp="1592236367779" />
+    <state width="993" height="256" key="GridCell.Tab.0.right" timestamp="1592236367808">
       <screen x="0" y="23" width="1920" height="985" />
     </state>
-    <state width="993" height="256" key="GridCell.Tab.0.right/1920.303.1280.777/0.23.1920.985@0.23.1920.985" timestamp="1592234800049" />
+    <state width="993" height="256" key="GridCell.Tab.0.right/1920.303.1280.777/0.23.1920.985@0.23.1920.985" timestamp="1592236367808" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
