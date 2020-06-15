@@ -42,7 +42,7 @@
     <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="settings.editor.selected.configurable" value="preferences.pluginManager" />
   </component>
-  <component name="RunManager" selected="JUnit.PrinterTest.cantPrintCopies">
+  <component name="RunManager" selected="JUnit.PrinterTest.canPrintCopies">
     <configuration name="PrinterTest.canPrintCopies" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
       <module name="3classesLab" />
       <option name="PACKAGE_NAME" value="" />
@@ -95,8 +95,8 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="JUnit.PrinterTest.cantPrintCopies" />
         <item itemvalue="JUnit.PrinterTest.canPrintCopies" />
+        <item itemvalue="JUnit.PrinterTest.cantPrintCopies" />
         <item itemvalue="JUnit.PrinterTest.printCopies" />
         <item itemvalue="JUnit.PrinterTest.hasSheets" />
         <item itemvalue="JUnit.WaterBottleTest.fillsVolume" />
@@ -129,22 +129,22 @@
     <servers />
   </component>
   <component name="WindowStateProjectService">
-    <state width="993" height="256" key="GridCell.Tab.0.bottom" timestamp="1592236367818">
+    <state width="993" height="256" key="GridCell.Tab.0.bottom" timestamp="1592236819718">
       <screen x="0" y="23" width="1920" height="985" />
     </state>
-    <state width="993" height="256" key="GridCell.Tab.0.bottom/1920.303.1280.777/0.23.1920.985@0.23.1920.985" timestamp="1592236367818" />
-    <state width="993" height="256" key="GridCell.Tab.0.center" timestamp="1592236367788">
+    <state width="993" height="256" key="GridCell.Tab.0.bottom/1920.303.1280.777/0.23.1920.985@0.23.1920.985" timestamp="1592236819718" />
+    <state width="993" height="256" key="GridCell.Tab.0.center" timestamp="1592236819716">
       <screen x="0" y="23" width="1920" height="985" />
     </state>
-    <state width="993" height="256" key="GridCell.Tab.0.center/1920.303.1280.777/0.23.1920.985@0.23.1920.985" timestamp="1592236367788" />
-    <state width="993" height="256" key="GridCell.Tab.0.left" timestamp="1592236367779">
+    <state width="993" height="256" key="GridCell.Tab.0.center/1920.303.1280.777/0.23.1920.985@0.23.1920.985" timestamp="1592236819716" />
+    <state width="993" height="256" key="GridCell.Tab.0.left" timestamp="1592236819714">
       <screen x="0" y="23" width="1920" height="985" />
     </state>
-    <state width="993" height="256" key="GridCell.Tab.0.left/1920.303.1280.777/0.23.1920.985@0.23.1920.985" timestamp="1592236367779" />
-    <state width="993" height="256" key="GridCell.Tab.0.right" timestamp="1592236367808">
+    <state width="993" height="256" key="GridCell.Tab.0.left/1920.303.1280.777/0.23.1920.985@0.23.1920.985" timestamp="1592236819714" />
+    <state width="993" height="256" key="GridCell.Tab.0.right" timestamp="1592236819717">
       <screen x="0" y="23" width="1920" height="985" />
     </state>
-    <state width="993" height="256" key="GridCell.Tab.0.right/1920.303.1280.777/0.23.1920.985@0.23.1920.985" timestamp="1592236367808" />
+    <state width="993" height="256" key="GridCell.Tab.0.right/1920.303.1280.777/0.23.1920.985@0.23.1920.985" timestamp="1592236819717" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>

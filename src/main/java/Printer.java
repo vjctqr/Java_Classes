@@ -10,11 +10,12 @@ public class Printer {
         return this.sheets;
     }
 
-    public boolean print(int copies, int pages){
-        if ((this.sheets - (copies * pages)) > 0)
-        return true;
+    public boolean enoughPaper(int copies, int pages){
+        if ((this.sheets - (copies * pages)) > 0) {
+            return true;
+        }
 //        return this.sheets - (copies * pages);
-        else return false;
+        return false;
     }
 
 }
