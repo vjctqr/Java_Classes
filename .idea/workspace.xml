@@ -118,22 +118,22 @@
     <servers />
   </component>
   <component name="WindowStateProjectService">
-    <state width="993" height="256" key="GridCell.Tab.0.bottom" timestamp="1592233561334">
+    <state width="993" height="256" key="GridCell.Tab.0.bottom" timestamp="1592233629826">
       <screen x="0" y="23" width="1920" height="985" />
     </state>
-    <state width="993" height="256" key="GridCell.Tab.0.bottom/1920.303.1280.777/0.23.1920.985@0.23.1920.985" timestamp="1592233561334" />
-    <state width="993" height="256" key="GridCell.Tab.0.center" timestamp="1592233561329">
+    <state width="993" height="256" key="GridCell.Tab.0.bottom/1920.303.1280.777/0.23.1920.985@0.23.1920.985" timestamp="1592233629826" />
+    <state width="993" height="256" key="GridCell.Tab.0.center" timestamp="1592233629825">
       <screen x="0" y="23" width="1920" height="985" />
     </state>
-    <state width="993" height="256" key="GridCell.Tab.0.center/1920.303.1280.777/0.23.1920.985@0.23.1920.985" timestamp="1592233561329" />
-    <state width="993" height="256" key="GridCell.Tab.0.left" timestamp="1592233561328">
+    <state width="993" height="256" key="GridCell.Tab.0.center/1920.303.1280.777/0.23.1920.985@0.23.1920.985" timestamp="1592233629825" />
+    <state width="993" height="256" key="GridCell.Tab.0.left" timestamp="1592233629824">
       <screen x="0" y="23" width="1920" height="985" />
     </state>
-    <state width="993" height="256" key="GridCell.Tab.0.left/1920.303.1280.777/0.23.1920.985@0.23.1920.985" timestamp="1592233561328" />
-    <state width="993" height="256" key="GridCell.Tab.0.right" timestamp="1592233561333">
+    <state width="993" height="256" key="GridCell.Tab.0.left/1920.303.1280.777/0.23.1920.985@0.23.1920.985" timestamp="1592233629824" />
+    <state width="993" height="256" key="GridCell.Tab.0.right" timestamp="1592233629825">
       <screen x="0" y="23" width="1920" height="985" />
     </state>
-    <state width="993" height="256" key="GridCell.Tab.0.right/1920.303.1280.777/0.23.1920.985@0.23.1920.985" timestamp="1592233561333" />
+    <state width="993" height="256" key="GridCell.Tab.0.right/1920.303.1280.777/0.23.1920.985@0.23.1920.985" timestamp="1592233629825" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
