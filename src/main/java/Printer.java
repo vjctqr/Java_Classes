@@ -16,12 +16,6 @@ public class Printer {
         return this.toner;
     }
 
-    public boolean enoughPaper(int copies, int pages){
-        if ((this.sheets - (copies * pages)) > 0) {
-            return true;
-        }
-//        return this.sheets - (copies * pages);
-        return false;
-    }
+
 
 }

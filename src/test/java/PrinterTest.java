@@ -19,12 +19,16 @@ public class PrinterTest {
 
     @Test
     public void canPrintCopies(){
-        assertEquals(true, printer.enoughPaper(5, 10));
+        printer.print(5, 10);
+        assertEquals(20, printer.getSheets());
+        assertEquals(50, printer.getToner());
     }
 
     @Test
     public void cantPrintCopies(){
-        assertEquals(false, printer.enoughPaper(8, 10));
+        printer.print(8, 10);
+        assertEquals(70, printer.getSheets());
+        assertEquals(100, printer.getToner());
     }
 
     @Test
