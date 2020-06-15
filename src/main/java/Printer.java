@@ -16,6 +16,11 @@ public class Printer {
         return this.toner;
     }
 
-
+    public void print(int copies, int pages){
+        if ((copies * pages) <= this.sheets) {
+            this.sheets -= (copies * pages);
+            this.toner -= (copies * pages);
+        }
+    }
 
 }
