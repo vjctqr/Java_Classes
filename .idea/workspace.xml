@@ -2,7 +2,11 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="8fe82471-118b-4757-9a98-f44554a935f3" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/main/java/Calculator.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/Calculator.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/CalculatorTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/CalculatorTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/Calculator.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/Calculator.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/test-classes/CalculatorTest.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/test-classes/CalculatorTest.class" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -38,12 +42,22 @@
     <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="settings.editor.selected.configurable" value="preferences.pluginManager" />
   </component>
-  <component name="RunManager" selected="JUnit.CalculatorTest.canMultiply">
+  <component name="RunManager" selected="JUnit.CalculatorTest.canDivide">
     <configuration name="CalculatorTest.canAdd" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
       <module name="3classesLab" />
       <option name="PACKAGE_NAME" value="" />
       <option name="MAIN_CLASS_NAME" value="CalculatorTest" />
       <option name="METHOD_NAME" value="canAdd" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="CalculatorTest.canDivide" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="3classesLab" />
+      <option name="PACKAGE_NAME" value="" />
+      <option name="MAIN_CLASS_NAME" value="CalculatorTest" />
+      <option name="METHOD_NAME" value="canDivide" />
       <option name="TEST_OBJECT" value="method" />
       <method v="2">
         <option name="Make" enabled="true" />
@@ -71,6 +85,7 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="JUnit.CalculatorTest.canDivide" />
         <item itemvalue="JUnit.CalculatorTest.canMultiply" />
         <item itemvalue="JUnit.CalculatorTest.canSubtract" />
         <item itemvalue="JUnit.CalculatorTest.canAdd" />
@@ -103,21 +118,35 @@
     <servers />
   </component>
   <component name="WindowStateProjectService">
-    <state width="993" height="256" key="GridCell.Tab.0.bottom" timestamp="1592232907002">
+    <state width="993" height="256" key="GridCell.Tab.0.bottom" timestamp="1592233561334">
       <screen x="0" y="23" width="1920" height="985" />
     </state>
-    <state width="993" height="256" key="GridCell.Tab.0.bottom/1920.303.1280.777/0.23.1920.985@0.23.1920.985" timestamp="1592232907002" />
-    <state width="993" height="256" key="GridCell.Tab.0.center" timestamp="1592232907001">
+    <state width="993" height="256" key="GridCell.Tab.0.bottom/1920.303.1280.777/0.23.1920.985@0.23.1920.985" timestamp="1592233561334" />
+    <state width="993" height="256" key="GridCell.Tab.0.center" timestamp="1592233561329">
       <screen x="0" y="23" width="1920" height="985" />
     </state>
-    <state width="993" height="256" key="GridCell.Tab.0.center/1920.303.1280.777/0.23.1920.985@0.23.1920.985" timestamp="1592232907001" />
-    <state width="993" height="256" key="GridCell.Tab.0.left" timestamp="1592232907001">
+    <state width="993" height="256" key="GridCell.Tab.0.center/1920.303.1280.777/0.23.1920.985@0.23.1920.985" timestamp="1592233561329" />
+    <state width="993" height="256" key="GridCell.Tab.0.left" timestamp="1592233561328">
       <screen x="0" y="23" width="1920" height="985" />
     </state>
-    <state width="993" height="256" key="GridCell.Tab.0.left/1920.303.1280.777/0.23.1920.985@0.23.1920.985" timestamp="1592232907001" />
-    <state width="993" height="256" key="GridCell.Tab.0.right" timestamp="1592232907002">
+    <state width="993" height="256" key="GridCell.Tab.0.left/1920.303.1280.777/0.23.1920.985@0.23.1920.985" timestamp="1592233561328" />
+    <state width="993" height="256" key="GridCell.Tab.0.right" timestamp="1592233561333">
       <screen x="0" y="23" width="1920" height="985" />
     </state>
-    <state width="993" height="256" key="GridCell.Tab.0.right/1920.303.1280.777/0.23.1920.985@0.23.1920.985" timestamp="1592232907002" />
+    <state width="993" height="256" key="GridCell.Tab.0.right/1920.303.1280.777/0.23.1920.985@0.23.1920.985" timestamp="1592233561333" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="java-method">
+          <url>file://$PROJECT_DIR$/src/test/java/CalculatorTest.java</url>
+          <line>30</line>
+          <properties class="CalculatorTest" method="canDivide">
+            <option name="EMULATED" value="true" />
+          </properties>
+          <option name="timeStamp" value="1" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
   </component>
 </project>
