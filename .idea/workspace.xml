@@ -3,7 +3,7 @@
   <component name="ChangeListManager">
     <list default="true" id="8fe82471-118b-4757-9a98-f44554a935f3" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/Calculator.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/Calculator.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/CalculatorTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/CalculatorTest.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -80,5 +80,23 @@
       <updated>1592231089139</updated>
     </task>
     <servers />
+  </component>
+  <component name="WindowStateProjectService">
+    <state width="993" height="256" key="GridCell.Tab.0.bottom" timestamp="1592232717485">
+      <screen x="0" y="23" width="1920" height="985" />
+    </state>
+    <state width="993" height="256" key="GridCell.Tab.0.bottom/1920.303.1280.777/0.23.1920.985@0.23.1920.985" timestamp="1592232717485" />
+    <state width="993" height="256" key="GridCell.Tab.0.center" timestamp="1592232717484">
+      <screen x="0" y="23" width="1920" height="985" />
+    </state>
+    <state width="993" height="256" key="GridCell.Tab.0.center/1920.303.1280.777/0.23.1920.985@0.23.1920.985" timestamp="1592232717484" />
+    <state width="993" height="256" key="GridCell.Tab.0.left" timestamp="1592232717482">
+      <screen x="0" y="23" width="1920" height="985" />
+    </state>
+    <state width="993" height="256" key="GridCell.Tab.0.left/1920.303.1280.777/0.23.1920.985@0.23.1920.985" timestamp="1592232717482" />
+    <state width="993" height="256" key="GridCell.Tab.0.right" timestamp="1592232717484">
+      <screen x="0" y="23" width="1920" height="985" />
+    </state>
+    <state width="993" height="256" key="GridCell.Tab.0.right/1920.303.1280.777/0.23.1920.985@0.23.1920.985" timestamp="1592232717484" />
   </component>
 </project>
